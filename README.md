@@ -1,4 +1,4 @@
-# grunt-usemin [![Build Status](https://secure.travis-ci.org/yeoman/grunt-usemin.png?branch=master)](http://travis-ci.org/yeoman/grunt-usemin)
+# grunt-usemin - PATCHED VERSION!
 
 ## Warning
 
