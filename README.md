@@ -1,5 +1,9 @@
 # grunt-usemin - PATCHED VERSION!
 
+## Patch Info:
+
+Added lib/jsprocessor.js to process angularjs precompiled JavaScript templates for img-Tag src attributes and replace the src content with rev file links
+
 ## Warning
 
 Development branch is currently `v2.0`.
